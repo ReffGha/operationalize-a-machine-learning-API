@@ -1,6 +1,6 @@
 # Udacity Nanodegree - Operationalize a Machine Learning API
 
-[![CircleCI](https://circleci.com/gh/ReffGha/operationalize-a-machine-learning-API/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/ReffGha/operationalize-a-machine-learning-API/tree/circleci-project-setup)
+[![CircleCI](https://circleci.com/gh/ReffGha/operationalize-a-machine-learning-API.svg?style=svg)](https://circleci.com/gh/ReffGha/operationalize-a-machine-learning-API)
 
 ## Project Overview
 
